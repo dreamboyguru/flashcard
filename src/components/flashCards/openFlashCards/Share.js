@@ -22,7 +22,7 @@ const Share = ({ isvisible, onClose }) => {
     // Function to copy the link to the clipboard
     const copyToClipboard = async () => {
       try {
-        await navigator.clipboard.writeText(`http://localhost:3000${location.pathname}`);
+        await navigator.clipboard.writeText(`https://flashcardd.vercel.app${location.pathname}`);
         setIsCopied(true);
       } catch (err) {
         console.error('Failed to copy text: ', err);
