@@ -11,7 +11,7 @@ function Tabs() {
       <div className='xl:w-2/3 xl:ml-60 lg:w3/4 lg:ml-24 md:w-4/5 md:ml-20 sm:w-full ml-5' data-testid='tabs'>
 
         {/* Heading for the tab section */}
-        <h1 className='text-2xl p-5'> <b>Create a Flash card </b></h1>
+        <h1 className='text-2xl p-5' data-testid='CreateFlashCard'> <b>Create a Flash card </b></h1>
 
         {/* Tab link for creating a new flashcard */}
         <Link to='/' 

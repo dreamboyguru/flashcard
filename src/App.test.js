@@ -17,8 +17,8 @@ describe('App Component', () => {
 
     expect(screen.getByTestId('header')).toBeInTheDocument();
     expect(screen.getByTestId('tabs')).toBeInTheDocument();
-    // expect(screen.getByText('Create a Flash card')).toBeInTheDocument();
-    // expect(screen.getByText('My Flashcards')).toBeInTheDocument();
-    // expect(screen.getByText('View Cards')).toBeInTheDocument();
+    expect(screen.getByText('Create a Flash card')).toBeInTheDocument();
+    expect(screen.getByText('My Flashcards')).toBeInTheDocument();
+    expect(screen.getByText('Create New')).toBeInTheDocument();
   });
 });
