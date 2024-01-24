@@ -10,6 +10,8 @@ function CreateGroup() {
             {/* Label for the 'groupName' input */}
             <label 
                 htmlFor='groupName'
+                id='groupName'
+                area-label = 'Create Group*'
                 className='text-gray-600 py-3 font-medium'
             >
                 Create Group*

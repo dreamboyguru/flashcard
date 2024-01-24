@@ -1,3 +1,4 @@
+import React from 'react';
 import { Route, Routes } from 'react-router-dom';     // Import necessary components from React and react-router-dom
 
 // Import custom components for the application
