@@ -61,7 +61,7 @@ const Share = ({ isvisible, onClose }) => {
                             <input 
                                 type='text' 
                                 className='w-full h-11'
-                                value={`http://localhost:3000${location.pathname}`} 
+                                value={`https://flashcardd.vercel.app${location.pathname}`} 
                                 readOnly
                             />
                         </div>
