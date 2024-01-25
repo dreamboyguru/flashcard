@@ -7,7 +7,7 @@ export const GroupSchema = Yup.object().shape({
     // Validation for the group name field
     groupName: Yup.string()
         .min(4,'Please add minimum 4 characters')
-        .required('groupName is required'),
+        .required('Group Name is required'),
 
 
     // Validation for the description field
