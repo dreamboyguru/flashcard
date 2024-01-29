@@ -3,6 +3,9 @@
 
 Elevate your learning with our Flashcard Generation Project – a modern tool that transforms course content into personalized, bite-sized flashcards. Boost comprehension, recall key concepts effortlessly, and adapt to your unique learning style. Say hello to a smarter way of mastering information...
 
+## Certificate for this project
+
+  ![Certificate](https://certificates.almabetter.com/en/verify/08216973909030)
 
 ## Deployment
 
