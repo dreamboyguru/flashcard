@@ -5,7 +5,7 @@ Elevate your learning with our Flashcard Generation Project – a modern tool th
 
 ## Certificate for this project
 
-  ![Certificate](https://certificates.almabetter.com/en/verify/08216973909030)
+  [Certificate](https://certificates.almabetter.com/en/verify/08216973909030)
 
 ## Deployment
 
