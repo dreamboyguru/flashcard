@@ -1,7 +1,7 @@
 
 # Flashcard Generator
 
-Elevate your learning with our Flashcard Generation Project – a modern tool that transforms course content into personalized, bite-sized flashcards. Boost comprehension, recall key concepts effortlessly, and adapt to your unique learning style. Say hello to a smarter way of mastering information...
+Elevate your learning with our Flashcard Generation Project – a modern tool that transforms course content into personalized, bite-sized flashcards. Boost comprehension, recall key concepts effortlessly, and adapt to your unique learning style. Say hello to a smarter way of mastering information.
 
 ## Certificate And Summary
 
